@@ -1,3 +1,5 @@
+#program that asks for 2 numbers and raises the first number by the second number 
+
 def x_to_y(x, y):
     return float(x)**float(y)
 base_number = input("Enter a base number: ")
